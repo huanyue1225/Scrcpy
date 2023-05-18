@@ -11,3 +11,4 @@
 [点我查看中文介绍](README_zh.md)
 
 
+https://github.com/huanyue1225/Scrcpy/blob/dev/docs/image/%E6%9C%AA%E6%A0%87%E9%A2%98-1.jpg
